@@ -1,0 +1,4 @@
+mytabs
+======
+
+XOOPS MyTabs Module
