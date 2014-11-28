@@ -12,7 +12,7 @@ To better understand the module and its purpose, let's take a look at the follow
 
 Pretty much all XOOPS modules have Blocks, that can be used to provide specific information from the module, and can be placed in different locations of the theme.
 
-While we can assign them to different modules, i.e. they can be visible on any page of any module, they have to be managed individually.
+While we can assign them to different module pages, i.e. they can be visible when a particular module to which they are linked, is active in the Front Page, they have to be managed and assigned individually, which is sometimes time consuming. 
 
 Trabis came with the brilliant idea to use the blocks the same way as we would use Lego blocks, where we can place various blocks inside a container, and then manage this container separately, regardless of what's inside of it.
 
@@ -20,7 +20,7 @@ The container for all the blocks is a Tab.
 
 And going up to the next level, we could use Page as container for various Tabs. 
 
-In this example we'll build a "World News" with Tabs representing different countries, and each Tab containing blocks from different modules, but related to each other by the topic of the Tab, in our case: different countries.
+In this example we'll build a "**World News & Videos**" with Tabs representing different countries, and each Tab containing blocks from different modules, but related to each other by the topic of the Tab, in our case: different countries.
 
 In order to create such a structure, we start from the top, i.e. 
 
