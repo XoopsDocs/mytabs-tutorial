@@ -20,6 +20,16 @@ The contain for all blocks was a Tab.
 
 And going up to the next level, we could use Page as container for various Tabs. 
 
-In this example we'll build a "World News" with Tabs representing different countries, and each Tab containing blocks from different modules, but related to each other by the topic of the Tab, here different countries.
+In this example we'll build a "World News" with Tabs representing different countries, and each Tab containing blocks from different modules, but related to each other by the topic of the Tab, in our case: different countries.
+
+In order to create such a structure, we start from the top, i.e. 
+
+1. we create a Page (here: World News) 
+2. then for this Page we create and assign one or more Tabs (here: USA, France, Japan)
+3. then for each Tab we select and assign existing Blocks
+ 
+
+
+
 
 
