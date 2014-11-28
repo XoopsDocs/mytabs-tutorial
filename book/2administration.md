@@ -16,7 +16,7 @@ While we can assign them to different modules, i.e. they can be visible on any p
 
 Trabis came with the brilliant idea to use the blocks the same way as we would use Lego blocks, where we can place various blocks inside a container, and then manage this container separately, regardless of what's inside of it.
 
-The contain for all blocks was a Tab. 
+The container for all the blocks is a Tab. 
 
 And going up to the next level, we could use Page as container for various Tabs. 
 
@@ -28,7 +28,7 @@ In order to create such a structure, we start from the top, i.e.
 2. then for this Page we create and assign one or more Tabs (here: USA, France, Japan)
 3. then for each Tab we select and assign existing Blocks
  
-
+Now that we understand better the idea behind MyTabs and its architecture, we can apply this in practice and build our "World News & Videos" Portal!  
 
 
 
