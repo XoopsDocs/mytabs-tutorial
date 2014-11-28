@@ -8,7 +8,7 @@ To better understand the module and its purpose, let's take a look at the follow
 
 
 ![concept.png](../assets/concept.png)  
-*Figure 1: Architecture of MyTabs Modul*
+*Figure 1: Architecture of MyTabs Module*
 
 Pretty much all XOOPS modules have Blocks, that can be used to provide specific information from the module, and can be placed in different locations of the theme.
 
