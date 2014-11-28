@@ -4,7 +4,7 @@
 ![image001.png](../assets/image001.png)  
 *Figure 1: Main view of the MyTabs Module (Admin side)*
 
-To better understand the module and its purpose, let's see take a look at following diagram:
+To better understand the module and its purpose, let's take a look at the following diagram:
 
 
 ![concept.png](../assets/concept.png)  
