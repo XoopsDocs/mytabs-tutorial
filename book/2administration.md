@@ -28,7 +28,7 @@ In order to create such a structure, we start from the top, i.e.
 2. then for this Page we create and assign one or more Tabs (here: USA, France, Japan)
 3. then for each Tab we select and assign existing Blocks
  
-Now that we understand better the idea behind MyTabs and its architecture, we can apply this in practice and build our "World News & Videos" Portal!  
+Now that we understand better the idea behind MyTabs and its architecture, we can apply this in practice and build our "**World News & Videos**" Portal!  
 
 
 
