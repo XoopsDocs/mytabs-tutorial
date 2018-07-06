@@ -1,6 +1,6 @@
 # Administration Menu
 
-![image001.png](.gitbook/assets/image001.png)
+![](.gitbook/assets/image001.png)
 
 _Figure 1: Main view of the MyTabs Module \(Admin side\)_
 

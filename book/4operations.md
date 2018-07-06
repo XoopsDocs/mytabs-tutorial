@@ -2,12 +2,12 @@
 
 ## Creating a Page
 
-![image002.png](../assets/image002.png)  
+![](../assets/image002.png)  
 *Figure 2: Creating new page*
  
 Click on “Go”, and a new screen appears:
 
-![image002.png](../assets/image003.png)  
+![](../assets/image003.png)  
 *Figure 2: Creating new page*
 
 Click on Save, and a new screen appears:

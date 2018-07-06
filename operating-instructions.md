@@ -5,14 +5,14 @@
   
 _Figure 2: Creating new page_
 
-![image002.png](.gitbook/assets/image002.png)
+![](.gitbook/assets/image002.png)
 
 Click on “Go”, and a new screen appears:
 
   
 _Figure 2: Creating new page_
 
-![image002.png](.gitbook/assets/image003.png)
+![](.gitbook/assets/image003.png)
 
 Click on Save, and a new screen appears:
 
