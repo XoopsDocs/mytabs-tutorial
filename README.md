@@ -10,7 +10,7 @@
 
 ### User Manual
 
-© 2016 XOOPS Project \([http://xoops.org](http://xoops.org)\)
+© 2016 XOOPS Project \([https://xoops.org](https://xoops.org)\)
 
 ### Module Purpose
 
@@ -33,7 +33,7 @@ _Figure 1: Main view of the MyTabs Module \(Admin side\)_
 
 ![image001.png](.gitbook/assets/image001.png)
 
-### Download/Fork the Module ![](http://xoops.org/images/forkit.png)
+### Download/Fork the Module ![](https://xoops.org/images/forkit.png)
 
 **You can fork the module --&gt;** [**here**](https://github.com/XoopsModules25x/mytabs)**\)**
 
@@ -61,5 +61,5 @@ Editing the book can be done either by updating the markdown files with a text e
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 Unless specified, this content is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-All derivative works are to be attributed to XOOPS Project \([www.xoops.org](http://xoops.org)\)
+All derivative works are to be attributed to XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
