@@ -10,7 +10,7 @@
 
 ### User Manual
 
-© 2016 XOOPS Project \([https://xoops.org](https://xoops.org)\)
+© 2018 XOOPS Project \([https://xoops.org](https://xoops.org)\)
 
 ### Module Purpose
 
@@ -31,7 +31,7 @@ The **MyTabs** module is a revolutionary [XOOPS](http://www.xoops.org) Module de
   
 _Figure 1: Main view of the MyTabs Module \(Admin side\)_
 
-![image001.png](.gitbook/assets/image001.png)
+![](.gitbook/assets/image001.png)
 
 ### Download/Fork the Module ![](https://xoops.org/images/forkit.png)
 
